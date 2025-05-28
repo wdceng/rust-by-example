@@ -11,7 +11,8 @@ release/
 *.pdb
 
 # Custom pattern: ignore all files without dots
-[!.]* # Catches most dotless filenames
+[!.]*            # Catches most dotless filenames
+[a-z_][a-z0-9_]* #
 
 # RustRover
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
