@@ -1,3 +1,13 @@
 {
-  "cSpell.words": ["dotless", "imag", "Unsuffixed"]
+  "cSpell.words": [
+    "ccosf",
+    "csqrtf",
+    "dotless",
+    "imag",
+    "libm",
+    "msvcrt",
+    "repr",
+    "rustc",
+    "Unsuffixed"
+  ]
 }
